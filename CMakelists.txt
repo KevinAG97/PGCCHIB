@@ -47,7 +47,6 @@ set(EXERCISES
     HelloTransform
     Modulo2/Ex1Parte1M2
     Modulo2/Ex1Parte2M2
-    Modulo3/M3JogoCores
 )
 
 add_compile_options(-Wno-pragmas)
