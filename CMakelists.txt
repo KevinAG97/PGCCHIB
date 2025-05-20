@@ -48,8 +48,6 @@ set(EXERCISES
     M2/Ex1P1M2
     M2/Ex2P1M2
     M2/Ex3P2M2
-    Modulo2/Ex1Parte1M2
-    Modulo2/Ex1Parte2M2
 )
 
 add_compile_options(-Wno-pragmas)
